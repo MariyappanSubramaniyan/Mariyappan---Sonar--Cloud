@@ -1,0 +1,20 @@
+.btn {
+  font-family: Gilroy, sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0;
+  text-align: center;
+  vertical-align: middle;
+  text-transform: capitalize;
+  color: white;
+  width: 400px;
+  height: 59px;
+  border-radius: 12px;
+  padding: 20px 40px;
+  gap: 8px;
+  background: #6c5dd3;
+  display: flex; /* required for gap to work */
+  align-items: center;
+  justify-content: center;
+}
